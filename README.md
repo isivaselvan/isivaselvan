@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there, I'm Sivaselvan👋
+## Hi there, I'm Sivaselvan👋
 Welcome to my GitHub profile! I'm a Senior Systems Engineer at Infosys with a deep passion for technology, particularly in DevOps and backend development. My journey has been shaped by diverse set of professional experiences that have honed my skills in a variety of cutting-edge technologies.
 
-🚀 Professional Experience
+##🚀 Professional Experience
 Senior Systems Engineer at Infosys
 Bengaluru, Karnataka, India | Feb 2022 - Present
 
@@ -30,7 +30,7 @@ Chennai, India | July 2021 - Jan 2022
 Process Optimizer: Enhanced operational efficiency by automating key workflows, aligning with the company’s growth strategy.
 
 
-🛠️ Skills
+##🛠️ Skills
 Programming Languages: Go, Python, JavaScript, C, C++
 Frameworks and Technologies: MERN Stack, Next.js, Django, Azure DevOps, Serverless Framework, gRPC
 Databases: MongoDB, MySQL, PostgreSQL
@@ -38,7 +38,7 @@ DevOps Tools: Jenkins, Terraform, Ansible, Docker
 Cloud Platforms: Microsoft Azure, AWS
 Specializations: Machine Learning, Generative AI, REST APIs
 
-🎓 Certifications
+##🎓 Certifications
 Django Application Development with SQL and Databases - IBM
 Developing AI Applications with Python and Flask - IBM
 Getting Started with Git and GitHub - IBM
@@ -50,7 +50,7 @@ MongoDB Python Developer Path - MongoDB
 Generative AI with Large Language Models - DeepLearning.AI
 
 
-📚 Projects
+##📚 Projects
 Dog Breed Classifier & Email Spam Filter
 Objective: Developed a comprehensive project combining a Dog Breed Classifier and an Email Spam Filter using machine learning and data analysis.
 Outcome: Delivered two reliable models with clean, efficient code ensuring robust predictions for both use cases.
@@ -96,7 +96,7 @@ Objective: Developed the backend for a course-selling website, enabling secure u
 Outcome: Provided a solid backend infrastructure for an e-learning platform, supporting role-based access control and seamless transactions.
 
 
-📬 Get in Touch
+##📬 Get in Touch
 Location: Chennai, India
 Email: isivaselvan@outlook.com
 LinkedIn: 
