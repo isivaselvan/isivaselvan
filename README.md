@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **isivaselvan@gmail.com**
 
-<h3 align="left">Connect with me:</h3> [[https://www.linkedin.com/in/sivaselvan-i-591635154/](https://www.linkedin.com/in/sivaselvan-i-591635154/)](https://www.linkedin.com/in/sivaselvan-i-591635154/)
+<h3 align="left">Connect with me:</h3> Sivaselvan I - Senior System Engineer - Infosys | LinkedIn![image](https://github.com/user-attachments/assets/37001f3e-537d-4d52-9d91-861af1c31e6f)
 <p align="left">
 </p>
 
