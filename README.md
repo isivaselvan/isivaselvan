@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sivaselvan</h1>
-<h3 align="center">I'm a Senior Systems Engineer at Infosys with a deep passion for technology, particularly in DevOps and backend development. My journey has been shaped by diverse set of professional experiences that have honed my skills in a variety of cutting-edge technologies.</h3>
+<h3 align="center">I'm a Senior Software Engineer at Infosys with a deep passion for technology, particularly in DevOps and backend development. My journey has been shaped by diverse set of professional experiences that have honed my skills in a variety of cutting-edge technologies.</h3>
 
 - 💬 Ask me about **Ansible, Python, Terraform, Kubernetes, AWS, Azure, ArgoCD**
 
