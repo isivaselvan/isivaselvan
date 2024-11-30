@@ -1,5 +1,26 @@
-<h1 align="center">Hi 👋, I'm Sivaselvan</h1>
-<h3 align="center">I'm a Senior Software Engineer at Infosys with a deep passion for technology, particularly in DevOps and backend development. My journey has been shaped by diverse set of professional experiences that have honed my skills in a variety of cutting-edge technologies.</h3>
+Hi there, I'm Sivaselvan👋
+Welcome to my GitHub profile! I'm a Senior Systems Engineer at Infosys with a deep passion for technology, particularly in DevOps and backend development. My journey has been shaped by diverse set of professional experiences that have honed my skills in a variety of cutting-edge technologies.
+
+🚀 Professional Experience
+Senior Systems Engineer at Infosys
+Bengaluru, Karnataka, India | Feb 2022 - Present
+
+Automation Innovator: Developed automated workflows using GitHub Actions, scaling the integration of new warehouses into existing infrastructures.
+Azure Expert: Deployed secure resource management processes using Azure, ensuring seamless integration and operations.
+Efficiency Advocate: Streamlined warehouse processes to reduce manual intervention, supporting business growth.
+
+PLSQL Developer at Azentio
+Chennai, India | July 2021 - Jan 2022
+Process Optimizer: Enhanced operational efficiency by automating key workflows, aligning with the company’s growth strategy.
+
+
+🛠️ Skills
+Programming Languages: Go, Python, JavaScript, C, C++
+Frameworks and Technologies: MERN Stack, Next.js, Django, Azure DevOps, Serverless Framework, gRPC
+Databases: MongoDB, MySQL, PostgreSQL
+DevOps Tools: Jenkins, Terraform, Ansible, Docker
+Cloud Platforms: Microsoft Azure, AWS
+Specializations: Machine Learning, Generative AI, REST APIs
 
 - 💬 Ask me about **Ansible, Python, Terraform, Kubernetes, AWS, Azure, ArgoCD**
 
