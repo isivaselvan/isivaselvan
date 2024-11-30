@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **isivaselvan@gmail.com**
 
-<h3 align="left">Connect with me:</h3> https://www.linkedin.com/in/sivaselvan-i-591635154/
+<h3 align="left">Connect with me:</h3> [https://www.linkedin.com/in/sivaselvan-i-591635154/](https://www.linkedin.com/in/sivaselvan-i-591635154/)
 <p align="left">
 </p>
 
