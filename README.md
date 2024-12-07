@@ -32,48 +32,48 @@ Process Optimizer: Enhanced operational efficiency by automating key workflows, 
 
 ## 🎓 Certifications
 ---------------------------
-Django Application Development with SQL and Databases - Infosys
-Developing AI Applications with Python and Flask - Infosys
-Hashicorp Certified Terraform Associate - Hashicorp
-AWS Certified Cloud Practioner - AWS
-Microsoft Certified Azure Fundamentals - Microsoft
-Microsoft Certified Azure Administrator - Microsoft
-Hands-on Introduction to Linux Commands and Shell Scripting - Infosys
-Certified Python Programmer - Infosys
-Cerified DevOps Engineer - Infosys
+- Django Application Development with SQL and Databases - Infosys
+- Developing AI Applications with Python and Flask - Infosys
+- Hashicorp Certified Terraform Associate - Hashicorp
+- AWS Certified Cloud Practioner - AWS
+- Microsoft Certified Azure Fundamentals - Microsoft
+- Microsoft Certified Azure Administrator - Microsoft
+- Hands-on Introduction to Linux Commands and Shell Scripting - Infosys
+- Certified Python Programmer - Infosys
+- Cerified DevOps Engineer - Infosys
 
 
 ## 📚 Projects
 ---------------
-Network Automation using Python and Ansible
+### Network Automation using Python and Ansible
 Objective: Developed a comprehensive project combining a Dog Breed Classifier and an Email Spam Filter using machine learning and data analysis.
 Outcome: Delivered two reliable models with clean, efficient code ensuring robust predictions for both use cases.
 
-Kubernetes Operator Framework Automation using GoLang
+### Kubernetes Operator Framework Automation using GoLang
 Objective: Created a testing framework to enhance the robustness of a Management Information System (MIS) with a focus on input validation and test case generation.
 Outcome: Streamlined the MIS testing process, ensuring data integrity and reducing errors.
 
-Azure Infrastructure Automation using Terraform
+### Azure Infrastructure Automation using Terraform
 Objective: Enhanced e-commerce recommendations by accurately identifying similar products using text and image data.
 Outcome: Developed a robust recommendation system leveraging multimodal data for improved user experience.
 
-Configuration and AWS Infrastructure Automation
+### Configuration and AWS Infrastructure Automation
 Objective: Designed a GUI-based model to break ciphertext using differential attacks across various encryption algorithms.
 Outcome: Provided a versatile tool for testing the security of encryption algorithms, contributing to cryptographic research.
 
-Automation Testing using Selenium
+### Automation Testing using Selenium
 Objective: Improved the security and efficiency of the online Multiple Spanning Tree Coverage (MSTC) algorithm for multi-robot systems.
 Outcome: Validated a more secure and efficient MSTC algorithm, enhancing multi-robot systems' robustness.
 
-PGASOMPO Insurance FullStack Development
+### PGASOMPO Insurance FullStack Development
 Objective: Developed a Text GCN to classify medical research proposals, aiming to exceed traditional term frequency methods.
 Outcome: Achieved a validation accuracy of 71.053%, demonstrating the effectiveness of the Text GCN model.
 
-Epileptic seizure alert system
+### Epileptic seizure alert system
 Objective: Conducted a comprehensive analysis of the QUIC protocol compared to TCP, focusing on performance metrics under various network conditions.
 Outcome: Demonstrated QUIC's superior performance, providing insights into its potential as a next-generation transport protocol.
 
-Peer learning
+### Peer learning
 Objective: Developed a scalable chat application leveraging gRPC for seamless communication between multiple clients and a server.
 Outcome: Delivered a secure, feature-rich chat application with group chat capabilities, showcasing the potential of gRPC.
 
