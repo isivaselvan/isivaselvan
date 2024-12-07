@@ -32,15 +32,15 @@ Process Optimizer: Enhanced operational efficiency by automating key workflows, 
 
 ## 🎓 Certifications
 ---------------------------
-Django Application Development with SQL and Databases - IBM
-Developing AI Applications with Python and Flask - IBM
-Getting Started with Git and GitHub - IBM
-Python for Data Science, AI & Development - IBM
-Snowflake Data Warehousing Workshop - Snowflake
-Hands-on Introduction to Linux Commands and Shell Scripting - IBM
-Mathematics for Machine Learning and Data Science Specialization - DeepLearning.AI
-MongoDB Python Developer Path - MongoDB
-Generative AI with Large Language Models - DeepLearning.AI
+Django Application Development with SQL and Databases - Infosys
+Developing AI Applications with Python and Flask - Infosys
+Hashicorp Certified Terraform Associate - Hashicorp
+AWS Certified Cloud Practioner - AWS
+Microsoft Certified Azure Fundamentals - Microsoft
+Microsoft Certified Azure Administrator - Microsoft
+Hands-on Introduction to Linux Commands and Shell Scripting - Infosys
+Certified Python Programmer - Infosys
+Cerified DevOps Engineer - Infosys
 
 
 ## 📚 Projects
