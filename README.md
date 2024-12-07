@@ -8,12 +8,22 @@ Welcome to my GitHub profile! I'm a Senior Software Engineer at Infosys with a d
 ### Senior Software Engineer at Infosys - Present
 --------------------------------------------
 Automation Innovator: Developed automated workflows using GitHub Actions, scaling the integration of new warehouses into existing infrastructures.
-Azure Expert: Deployed secure resource management processes using Azure, ensuring seamless integration and operations.
-Efficiency Advocate: Streamlined warehouse processes to reduce manual intervention, supporting business growth.
+Azure Expert: Deployed secure resource management processes using Azure, ensuring seamless integration and operations on Terraform Cloud.
+- Able to work with the team and learn practical ways to implement infrastructure solutions at the need of requirements for Cloud and Infrastructure at the Organization.
+- Able to understand and define architectural solution blueprint, create and implement appropriate DevOps solution Hands on experience with both AWS and Microsoft Azure Cloud services.
+- Good knowledge on software configuration management using Ansible Able to write custom scripts (PowerShell/Python) as part of build and deployment process.
+- Hands-on experience with containerized deployments using Docker, Docker Swarm and Kubernetes.
 
 ### PLSQL Developer at Azentio July21 - Jan22
 ------------------------------------
-Process Optimizer: Enhanced operational efficiency by automating key workflows, aligning with the company’s growth strategy.
+- Enhanced operational efficiency by automating key workflows, aligning with the company’s growth strategy.
+- Interact with Clients to get a clear idea about their requirements with application. Used Critical thinking to break down problems, evaluate solutions and make decisions. 
+- Worked in the Packages, Procedures, Functions, Triggers to develop the application and generate the report at test and live environment using PLSQL and Oracle Forms & Reports. 
+- Learned the report generation using JAVA, SAMA, BI Publisher and Oracle Report Builder. 
+- Tested the newly generated report with information and logic on the application before release and ship the report. 
+- Understand the techniques of patch apply, Database interaction. 
+- Worked on the Oracle Forms to check the errors, enabling of data with respective to the Database and customization of application with client requirements. 
+- Learn new skills and applied them to a daily task, improving efficiency and productivity. Participate in team building activities to enhance working relationship.
 
 
 ## 🛠️ Skills
