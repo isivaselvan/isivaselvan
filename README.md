@@ -33,7 +33,7 @@ Azure Expert: Deployed secure resource management processes using Azure, ensurin
 - Databases: Oracle SQL, PLSQL, MySQL
 - DevOps Tools: Jenkins, Terraform, Ansible, Docker, GitLab
 - Cloud Platforms: Microsoft Azure, AWS
-- Specializations: Machine Learning, Generative AI, REST APIs
+- Specializations: Generative AI, REST APIs
 - System Engineering/Developer Ops: Linux, Unix.
 - Data Serialization Language: JSON, YAML
 - Container Platform: Docker, Kubernetes
@@ -56,34 +56,34 @@ Azure Expert: Deployed secure resource management processes using Azure, ensurin
 ## 📚 Projects
 ---------------
 ### Network Automation using Python and Ansible
-Objective: Developed a comprehensive project combining a Dog Breed Classifier and an Email Spam Filter using machine learning and data analysis.
-Outcome: Delivered two reliable models with clean, efficient code ensuring robust predictions for both use cases.
+Objective: To automate network management tasks using Python and Ansible, enhancing efficiency, reliability, and compliance while reducing manual effort and errors.
+Outcome: Achieving increased operational efficiency, network reliability, cost savings, scalability, and compliance through automated network management.
 
 ### Kubernetes Operator Framework Automation using GoLang
-Objective: Created a testing framework to enhance the robustness of a Management Information System (MIS) with a focus on input validation and test case generation.
-Outcome: Streamlined the MIS testing process, ensuring data integrity and reducing errors.
+Objective: To automate the management and deployment of Kubernetes resources using the Operator Framework and GoLang, enhancing operational efficiency, scalability, and reliability of Kubernetes clusters.
+Outcome: Achieving streamlined Kubernetes resource management, improved cluster reliability, scalability, and reduced manual intervention through automated operations using GoLang-based Kubernetes Operators.
 
 ### Azure Infrastructure Automation using Terraform
-Objective: Enhanced e-commerce recommendations by accurately identifying similar products using text and image data.
-Outcome: Developed a robust recommendation system leveraging multimodal data for improved user experience.
+Objective: To automate the provisioning and management of Azure infrastructure using Terraform, ensuring consistency, scalability, and efficiency in deploying and maintaining cloud resources.
+Outcome: Achieving streamlined and reliable Azure infrastructure management, reduced manual intervention, and enhanced scalability through automated Terraform scripts.
 
 ### Configuration and AWS Infrastructure Automation
-Objective: Designed a GUI-based model to break ciphertext using differential attacks across various encryption algorithms.
-Outcome: Provided a versatile tool for testing the security of encryption algorithms, contributing to cryptographic research.
+Objective: To automate the configuration and management of AWS infrastructure using tools like Terraform and AWS CloudFormation, ensuring efficient, scalable, and consistent deployment of cloud resources.
+Outcome: Achieving streamlined AWS infrastructure management, enhanced scalability, reduced manual intervention, and improved consistency through automated configuration and deployment processes.
 
 ### Automation Testing using Selenium
-Objective: Improved the security and efficiency of the online Multiple Spanning Tree Coverage (MSTC) algorithm for multi-robot systems.
-Outcome: Validated a more secure and efficient MSTC algorithm, enhancing multi-robot systems' robustness.
+Objective: To automate the testing of web applications using Selenium WebDriver, ensuring efficient, reliable, and repeatable test execution.
+Outcome: Achieving streamlined and accurate web application testing, reduced manual testing effort, and improved test coverage through automated Selenium scripts.
 
 ### PGASOMPO Insurance FullStack Development
-Objective: Developed a Text GCN to classify medical research proposals, aiming to exceed traditional term frequency methods.
-Outcome: Achieved a validation accuracy of 71.053%, demonstrating the effectiveness of the Text GCN model.
+Objective: Developed a robust application of insurance domain with respect to Client proposals, aiming to exceed traditional term frequency methods.
+Outcome: Achieved a validation accuracy of policy, claims and insurance process, demonstrating the effectiveness of the requirement.
 
 ### Epileptic seizure alert system
-Objective: Conducted a comprehensive analysis of the QUIC protocol compared to TCP, focusing on performance metrics under various network conditions.
-Outcome: Demonstrated QUIC's superior performance, providing insights into its potential as a next-generation transport protocol.
+Objective: To develop an epileptic seizure alert system that detects seizures in real-time and promptly notifies caregivers or medical personnel, ensuring timely intervention and enhanced patient safety.
+Outcome: Achieving reliable and timely detection of epileptic seizures, reducing the risk of injury or complications, and providing peace of mind to patients and their caregivers through automated alerts.
 
-### Peer learning
+### API Development using GoLang
 Objective: Developed a scalable chat application leveraging gRPC for seamless communication between multiple clients and a server.
 Outcome: Delivered a secure, feature-rich chat application with group chat capabilities, showcasing the potential of gRPC.
 
